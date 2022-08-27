@@ -10,13 +10,13 @@ Estudiante: Andrea María Li Hernández - Carnet: 2021028783
 
 1. Explique en que consisten los siguientes conceptos:
 
-    **a. Data Warehouse**
+    **a. Data Warehouse:**
     Es una base de datos especializada para consultas, procesamiento y análisis de datos de forma rápida con grandes volúmenes de datos. Además, están optimizadas para poder hacer acciones de escritura y lectura de grandes lotes de datos.
     
-    **b. Data Lake**
+    **b. Data Lake:**
     Los Data Lake permiten almacenar objetos o archivos de "raw data" o datos masivos sin procesar y son de menor costo comparados con los Data Warehouse.
 
-    **c. Data Mart**
+    **c. Data Mart:**
     Consiste en una forma simple de un Data Warehouse, está centrada en un área funcional o un tema en específico. Son sencillas de diseñar y administrar; además, se pueden crear varios Data Marts a partir de un gran Data Warehouse.
 
 <br>
