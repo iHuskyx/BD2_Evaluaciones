@@ -45,3 +45,8 @@ Estudiante: Andrea María Li Hernández - Carnet: 2021028783
     
     - Datos no estructurados: No siguen ningún patrón, se deben utilizar herramientas como el procesamiento de lenguaje natural.
 
+<br>
+
+### Referencias:
+
+Amazon Web Services. (15 de enero de 2021). *Data Warehousing on AWS*. Obtenido de Amazon Web Services: https://docs.aws.amazon.com/whitepapers/latest/data-warehousing-on-aws/data-warehousing-on-aws.html
