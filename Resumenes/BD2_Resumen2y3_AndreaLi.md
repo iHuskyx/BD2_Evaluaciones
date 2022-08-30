@@ -128,6 +128,7 @@ In this section, the authors mention some lessons that they learned in the proce
 ___
 #### **Related Work**
 **The Boxwood project** was made to provide infrastructure for building higher-level services such as file systems or databases; it has components that overlap in some ways with Chubby, GFS, and Bigtable, because it provides for distributed agreement, locking, distributed chunk and B-tree storage.
+
 **C-Store** and Bigtable share many characteristics such as using a shared-nothing architecture and having 2 different data structures, one for recent writes and another for storing long-lived data. Nevertheless, the main difference is their API, C-Store behaves like a relational database, while Bigtable provides a lower level read and write interface.
 ___
 #### **Conclusions**
