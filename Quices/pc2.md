@@ -20,7 +20,7 @@ Replica es un método para asegurar la integridad de la base de datos, consiste 
 
 
 <br></br>
-1. Explique la diferencia entre Strong Consistency y Eventual Consistency.
+2. Explique la diferencia entre Strong Consistency y Eventual Consistency.
    
 En el Strong Consistency se vela por la consistencia de datos, entonces la persona no tendrá disponibilidad de un dato hasta que el sistema se asegure de tener la última versión de este. Por otro lado, con el Eventual Consistency, los datos estarán disponibles en algún momento del tiempo, pero no se asegura que el dato esté actualizado. 
 
@@ -32,7 +32,7 @@ Los warm replicas son un tipo de replica que fuerza el Strong Consistency, por l
 Los hot replicas son un tipo de replica que trabaja en Eventual Consistency, siguiendo esa idea, se permiten transacciones aunque los datos no necesariamente estén correctos. 
 
 <br></br>
-1. ¿En que consiste consiste switch over y fail over?
+4. ¿En que consiste consiste switch over y fail over?
 
 
 Un fail over detecta cuando la base de datos se cae y toma acción de manera automática.
